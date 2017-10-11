@@ -1,5 +1,5 @@
 {
-	"name": "razorpay/omnipay-razorpay",
+	"name": "maikap/omnipay-razorpay",
 	"description": "Razorpay Omnipay 2.0 plugin for accepting payments",
     "require": {
         "omnipay/common": "~2.0",
